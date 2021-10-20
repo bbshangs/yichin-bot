@@ -1,0 +1,35 @@
+{
+  "type": "text",
+  "text": "More about me?",
+  "quickReply": {
+    "items": [
+      {
+        "type": "action",
+        "imageUrl": "https://i.imgur.com/Z3qMcn2.png",
+        "action": {
+          "type": "message",
+          "label": "Education",
+          "text": "Education"
+        }
+      },
+      {
+        "type": "action",
+        "imageUrl": "https://i.imgur.com/yctGEim.png",
+        "action": {
+          "type": "message",
+          "label": "Internship",
+          "text": "Internship"
+        }
+      },
+      {
+        "type": "action",
+        "imageUrl" : "https://i.imgur.com/VSHDrE4.png",
+        "action": {
+          "type": "message",
+          "label": "LeadershipExperience",
+          "text": "Leadership Experience"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "text",
+  "text": "Hi! My name is Yi-Chin, Shang. I am now a bachelor of Computer Science and Information Engineering in National Taiwan University. I am an outgoing and upbeat girl who always have high energy. I am active in university and participates numerous activities in school. Working with people allows me to gain lots of teamwork experiences and skills to get along with others. In addition, I am good at problem-solving as well as communicating and own great critical thinking skills.",
+  "quickReply": {
+    "items": [
+      {
+        "type": "action",
+        "imageUrl": "https://i.imgur.com/Z3qMcn2.png",
+        "action": {
+          "type": "message",
+          "label": "Education",
+          "text": "Education"
+        }
+      },
+      {
+        "type": "action",
+        "imageUrl": "https://i.imgur.com/yctGEim.png",
+        "action": {
+          "type": "message",
+          "label": "Internship",
+          "text": "Internship"
+        }
+      },
+      {
+        "type": "action",
+        "imageUrl" : "https://i.imgur.com/VSHDrE4.png",
+        "action": {
+          "type": "message",
+          "label": "LeadershipExperience",
+          "text": "Leadership Experience"
+        }
+      }
+    ]
+  }
+}
